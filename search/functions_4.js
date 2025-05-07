@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['printlasterror_0',['printLastError',['../core_8h.html#a250f99b6177e4da12d601679557eaf25',1,'core.h']]]
+  ['printlasterror_0',['printLastError',['../nex_8h.html#a475b7425459cae1266395aa9989ec364',1,'nex.h']]]
 ];

@@ -1,12 +1,12 @@
 var searchData=
 [
-  ['sendtoallclients_0',['sendToAllClients',['../core_8h.html#a8b6bd5aba13df02fa5ec56e920f388bd',1,'core.h']]],
-  ['sendtoclient_1',['sendToClient',['../core_8h.html#a1fa5426129c1f26498791a319c2170e3',1,'core.h']]],
-  ['sendtopeer_2',['sendToPeer',['../core_8h.html#a39e1bbf54514064a397fcccc59ea8312',1,'core.h']]],
-  ['sendtoserver_3',['sendToServer',['../core_8h.html#ab60d78f8d8cb9db66e729478a4080d69',1,'core.h']]],
-  ['setclientcontext_4',['setClientContext',['../core_8h.html#a47d3c4351746de78778c4e8bfaef3fb1',1,'core.h']]],
-  ['setpeercontext_5',['setPeerContext',['../core_8h.html#aa825fd17ad2f084654739fc6e74c9b57',1,'core.h']]],
-  ['shutdownnetwork_6',['shutdownNetwork',['../core_8h.html#a0d05ba7d77ba671065c7daa5ee845ea9',1,'core.h']]],
-  ['startpeer_7',['startPeer',['../core_8h.html#aeb231b864965cd4a4fe4e2938ae5e0a7',1,'core.h']]],
-  ['startserver_8',['startServer',['../core_8h.html#a4992aaca539076014a201d776d8f4a48',1,'core.h']]]
+  ['sendtoallclients_0',['sendToAllClients',['../nex_8h.html#a67c63ed00359ff073f954d0029d5beb4',1,'nex.h']]],
+  ['sendtoclient_1',['sendToClient',['../nex_8h.html#a989167c3527a0aa28aa051884ac45765',1,'nex.h']]],
+  ['sendtopeer_2',['sendToPeer',['../nex_8h.html#a12eeb035840e940a60f4308626a2e9dd',1,'nex.h']]],
+  ['sendtoserver_3',['sendToServer',['../nex_8h.html#a4eb4576407830be195d7589ec49d50ad',1,'nex.h']]],
+  ['setclientcontext_4',['setClientContext',['../nex_8h.html#a60aada1ac928c2e5240000c699485ead',1,'nex.h']]],
+  ['setpeercontext_5',['setPeerContext',['../nex_8h.html#ac5c5a35a7d08a5eda541ae13b872b794',1,'nex.h']]],
+  ['shutdownnetwork_6',['shutdownNetwork',['../nex_8h.html#ade318fb93e6217220e470eab4812de3a',1,'nex.h']]],
+  ['startpeer_7',['startPeer',['../nex_8h.html#aba3c1c4cae952e9edb3ab1340ac50156',1,'nex.h']]],
+  ['startserver_8',['startServer',['../nex_8h.html#abeaaf3488337cac9463dae14ee79e7d9',1,'nex.h']]]
 ];

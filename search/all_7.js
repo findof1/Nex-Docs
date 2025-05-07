@@ -1,16 +1,16 @@
 var searchData=
 [
-  ['sendtoallclients_0',['sendToAllClients',['../core_8h.html#a8b6bd5aba13df02fa5ec56e920f388bd',1,'core.h']]],
-  ['sendtoclient_1',['sendToClient',['../core_8h.html#a1fa5426129c1f26498791a319c2170e3',1,'core.h']]],
-  ['sendtopeer_2',['sendToPeer',['../core_8h.html#a39e1bbf54514064a397fcccc59ea8312',1,'core.h']]],
-  ['sendtoserver_3',['sendToServer',['../core_8h.html#ab60d78f8d8cb9db66e729478a4080d69',1,'core.h']]],
-  ['server_4',['Server',['../core_8h.html#aa78c7398fa81f7f62aa233159d4d8d97ac5e385618c6ca54e461a312031274f43',1,'core.h']]],
-  ['setclientcontext_5',['setClientContext',['../core_8h.html#a47d3c4351746de78778c4e8bfaef3fb1',1,'core.h']]],
-  ['setpeercontext_6',['setPeerContext',['../core_8h.html#aa825fd17ad2f084654739fc6e74c9b57',1,'core.h']]],
-  ['shutdownnetwork_7',['shutdownNetwork',['../core_8h.html#a0d05ba7d77ba671065c7daa5ee845ea9',1,'core.h']]],
+  ['sendtoallclients_0',['sendToAllClients',['../nex_8h.html#a67c63ed00359ff073f954d0029d5beb4',1,'nex.h']]],
+  ['sendtoclient_1',['sendToClient',['../nex_8h.html#a989167c3527a0aa28aa051884ac45765',1,'nex.h']]],
+  ['sendtopeer_2',['sendToPeer',['../nex_8h.html#a12eeb035840e940a60f4308626a2e9dd',1,'nex.h']]],
+  ['sendtoserver_3',['sendToServer',['../nex_8h.html#a4eb4576407830be195d7589ec49d50ad',1,'nex.h']]],
+  ['server_4',['Server',['../nex_8h.html#aa78c7398fa81f7f62aa233159d4d8d97ac5e385618c6ca54e461a312031274f43',1,'nex.h']]],
+  ['setclientcontext_5',['setClientContext',['../nex_8h.html#a60aada1ac928c2e5240000c699485ead',1,'nex.h']]],
+  ['setpeercontext_6',['setPeerContext',['../nex_8h.html#ac5c5a35a7d08a5eda541ae13b872b794',1,'nex.h']]],
+  ['shutdownnetwork_7',['shutdownNetwork',['../nex_8h.html#ade318fb93e6217220e470eab4812de3a',1,'nex.h']]],
   ['socket_8',['Socket',['../struct_socket.html',1,'']]],
   ['socket_9',['socket',['../struct_socket.html#ac8647a8740030728cb334c1e697145aa',1,'Socket']]],
-  ['sockettype_10',['SocketType',['../core_8h.html#aa78c7398fa81f7f62aa233159d4d8d97',1,'core.h']]],
-  ['startpeer_11',['startPeer',['../core_8h.html#aeb231b864965cd4a4fe4e2938ae5e0a7',1,'core.h']]],
-  ['startserver_12',['startServer',['../core_8h.html#a4992aaca539076014a201d776d8f4a48',1,'core.h']]]
+  ['sockettype_10',['SocketType',['../nex_8h.html#aa78c7398fa81f7f62aa233159d4d8d97',1,'nex.h']]],
+  ['startpeer_11',['startPeer',['../nex_8h.html#aba3c1c4cae952e9edb3ab1340ac50156',1,'nex.h']]],
+  ['startserver_12',['startServer',['../nex_8h.html#abeaaf3488337cac9463dae14ee79e7d9',1,'nex.h']]]
 ];

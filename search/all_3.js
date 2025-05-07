@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['getclientcontext_0',['getClientContext',['../core_8h.html#ac4c78f19cd529f35ecb96801f8a56ea1',1,'core.h']]],
-  ['getlasterror_1',['getLastError',['../core_8h.html#aaf7cc9d5ebf620506345d69fd2ba6789',1,'core.h']]],
-  ['getpeercontext_2',['getPeerContext',['../core_8h.html#a60626675ce00358999bc2c929b383a95',1,'core.h']]]
+  ['getclientcontext_0',['getClientContext',['../nex_8h.html#a7add6550d866fff0b8813ba4eab6f8c9',1,'nex.h']]],
+  ['getlasterror_1',['getLastError',['../nex_8h.html#ab58a2b354d26b985c3dfd92a0298d089',1,'nex.h']]],
+  ['getpeercontext_2',['getPeerContext',['../nex_8h.html#ae89a702b7d7ae602a6bbc9451a9f8121',1,'nex.h']]]
 ];
